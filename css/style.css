@@ -71,3 +71,16 @@ body {
 .about-img {
     margin-left: -325px;
 }
+
+.service-background {
+    background-color: #F3F9FB;
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+}
+
+.service-icon {
+    background-color: #6C63FF;
+    padding: 20px;
+    border-radius: 50%;
+}
