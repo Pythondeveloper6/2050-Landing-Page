@@ -96,3 +96,7 @@ body {
 .banner-img-2 {
     margin-left: -115px;
 }
+
+.product-card{
+    border-bottom: 3px solid #6C63FF;
+}
