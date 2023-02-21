@@ -10,6 +10,10 @@ body {
     background-color: #4741AF;
 }
 
+.nav-item {
+    padding: 0 10px;
+}
+
 .nav-link {
     color: white;
     font-size: 18px;
@@ -83,4 +87,12 @@ body {
     background-color: #6C63FF;
     padding: 20px;
     border-radius: 50%;
+}
+
+.mydiv {
+    background-color: #F3F9FB;
+}
+
+.banner-img-2 {
+    margin-left: -115px;
 }
