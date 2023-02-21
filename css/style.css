@@ -52,7 +52,7 @@ body {
 
 .text-subtitle {
     color: #6c63ff;
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 700;
 }
 
@@ -97,6 +97,21 @@ body {
     margin-left: -115px;
 }
 
-.product-card{
+.product-card {
     border-bottom: 3px solid #6C63FF;
+}
+
+.feature-icon {
+    background-color: #6C63FF;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 50%;
+}
+
+.feature-icon i {
+    font-size: 25px;
+    color: white;
 }
