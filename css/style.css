@@ -140,3 +140,11 @@ body {
 .product-card {
     transition: all .3s;
 }
+
+.service-card:hover .service-icon {
+    margin-left: 70px;
+}
+
+.service-icon {
+    transition: all .6s;
+}
