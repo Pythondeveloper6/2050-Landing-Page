@@ -115,9 +115,20 @@ body {
     font-size: 25px;
     color: white;
 }
-.blog-link{
+
+.blog-link {
     font-size: 18px !important;
 }
-.blog-date{
+
+.blog-date {
     font-size: 16px;
+}
+
+/* animation */
+.post:hover .post-img {
+    transform: scale(1.1);
+}
+
+.post-img {
+    transition: all .3s;
 }
